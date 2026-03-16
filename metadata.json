@@ -1,0 +1,5 @@
+{
+  "name": "Planix NOVA 2",
+  "description": "Agentic AI Learning & Growth Operating System",
+  "requestFramePermissions": ["microphone"]
+}
